@@ -52,7 +52,7 @@ my_form:
 Email Queues
 ------------
 
-BoltForms spools all emails to a file spool directory, and them dispatches
+BoltForms spools all emails to a file spool directory, and then dispatches
 them after the request has been sent to the client.
 
 
