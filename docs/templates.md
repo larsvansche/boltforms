@@ -93,7 +93,9 @@ or
                     }
                 }
             },
-            redirect: { 'target': 'http://bolt.cm' }
+            feedback: { 'redirect': {
+                'target': 'http://bolt.cm/'
+            }
         })
     }}
 ```
